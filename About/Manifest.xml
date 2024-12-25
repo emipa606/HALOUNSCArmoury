@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>HALOUNSCArmoury</identifier>
+  <version>1.5.0</version>
+  <dependencies />
+  <incompatibleWith />
+  <loadBefore />
+  <loadAfter />
+  <manifestUri>https://raw.githubusercontent.com/emipa606/HALOUNSCArmoury/master/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/emipa606/HALOUNSCArmoury/releases</downloadUri>
+</Manifest>
