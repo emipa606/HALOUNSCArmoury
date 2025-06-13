@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- ============================ Halo Stanchion Rifle ========================== -->
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>HUA_Gun_ChargeStanchion</defName>
+    <label>stanchion sniper rifle</label>
+    <description>An experimental charged-shot sniper shooting mechanoid-ilke lancer shots. Combining pulse-charge technology with older gas-operated weapon design, this weapon is truly unique and yet, extremely powerful.</description>
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponRanged/HaloStanchion</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
+    <statBases>
+      <WorkToMake>50000</WorkToMake>
+      <Mass>4.8</Mass>
+      <AccuracyTouch>0.70</AccuracyTouch>
+      <AccuracyShort>0.79</AccuracyShort>
+      <AccuracyMedium>0.90</AccuracyMedium>
+      <AccuracyLong>0.86</AccuracyLong>
+      <RangedWeapon_Cooldown>3.30</RangedWeapon_Cooldown>
+    </statBases>
+    <recipeMaker>
+      <researchPrerequisite>ChargedShot</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>10</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>FabricationBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <equippedAngleOffset>45</equippedAngleOffset>
+    <costList>
+      <Plasteel>50</Plasteel>
+      <ComponentSpacer>3</ComponentSpacer>
+    </costList>
+    <weaponTags>
+      <li>SpacerGun</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>HUA_Bullet_ChargeStanchion</defaultProjectile>
+        <warmupTime>4.0</warmupTime>
+        <range>35.9</range>
+        <soundCast>Shot_ChargeRifle</soundCast>
+        <soundCastTail>GunTail_Medium</soundCastTail>
+        <muzzleFlashScale>9</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>11</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HUA_Bullet_ChargeStanchion</defName>
+    <label>charge sniper shot</label>
+    <graphicData>
+      <texPath>Things/Projectile/ChargeLanceShot</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>40</damageAmountBase>
+      <armorPenetrationBase>0.65</armorPenetrationBase>
+      <stoppingPower>4.5</stoppingPower>
+      <speed>80</speed>
+    </projectile>
+  </ThingDef>
+  <!-- ============================ Halo Gauss Rifle ========================== -->
+  <ThingDef ParentName="BaseHumanMakeableGun">
+    <defName>HUA_Gun_HeavyChargeRifle</defName>
+    <label>heavy charge rifle</label>
+    <description>A heavy charged-shot assault rifle shooting in short two bullet bursts. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</description>
+    <techLevel>Spacer</techLevel>
+    <graphicData>
+      <texPath>Things/Item/Equipment/WeaponRanged/HaloGaussRifle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_ChargeRifle</soundInteract>
+    <statBases>
+      <WorkToMake>50000</WorkToMake>
+      <Mass>4.6</Mass>
+      <AccuracyTouch>0.55</AccuracyTouch>
+      <AccuracyShort>0.66</AccuracyShort>
+      <AccuracyMedium>0.50</AccuracyMedium>
+      <AccuracyLong>0.52</AccuracyLong>
+      <RangedWeapon_Cooldown>2.30</RangedWeapon_Cooldown>
+    </statBases>
+    <recipeMaker>
+      <researchPrerequisite>ChargedShot</researchPrerequisite>
+      <skillRequirements>
+        <Crafting>12</Crafting>
+      </skillRequirements>
+      <recipeUsers Inherit="False">
+        <li>FabricationBench</li>
+      </recipeUsers>
+    </recipeMaker>
+    <equippedAngleOffset>45</equippedAngleOffset>
+    <costList>
+      <Plasteel>50</Plasteel>
+      <ComponentSpacer>3</ComponentSpacer>
+    </costList>
+    <weaponTags>
+      <li>SpacerGun</li>
+    </weaponTags>
+    <verbs>
+      <li>
+        <verbClass>Verb_Shoot</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <defaultProjectile>HUA_Bullet_HeavyChargeRifle</defaultProjectile>
+        <warmupTime>2.0</warmupTime>
+        <range>24.9</range>
+        <ticksBetweenBurstShots>8</ticksBetweenBurstShots>
+        <burstShotCount>2</burstShotCount>
+        <soundCast>Shot_ChargeRifle</soundCast>
+        <soundCastTail>GunTail_Heavy</soundCastTail>
+        <muzzleFlashScale>11</muzzleFlashScale>
+      </li>
+    </verbs>
+    <tools>
+      <li>
+        <label>stock</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>11</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+      <li>
+        <label>barrel</label>
+        <capacities>
+          <li>Blunt</li>
+          <li>Poke</li>
+        </capacities>
+        <power>9</power>
+        <cooldownTime>2</cooldownTime>
+      </li>
+    </tools>
+  </ThingDef>
+  <ThingDef ParentName="BaseBullet">
+    <defName>HUA_Bullet_HeavyChargeRifle</defName>
+    <label>charge shot</label>
+    <graphicData>
+      <texPath>Things/Projectile/Charge_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>18</damageAmountBase>
+      <armorPenetrationBase>0.35</armorPenetrationBase>
+      <speed>75</speed>
+    </projectile>
+  </ThingDef>
+</Defs>

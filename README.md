@@ -1,4 +1,4 @@
-# [HALO: UNSC Armoury (Continued)]()
+# [HALO: UNSC Armoury (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3391798246)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -102,4 +102,4 @@ Rimworld is owned by Tynan Sylvester.
 
  
 
-[![Image](https://img.shields.io/github/v/release/emipa606/HALOUNSCArmoury?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/) | tags:  lore-friendly,  weapons
+[![Image](https://img.shields.io/github/v/release/emipa606/HALOUNSCArmoury?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/3391798246) | tags:  lore-friendly,  weapons

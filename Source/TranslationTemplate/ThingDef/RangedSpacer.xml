@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: charge sniper shot -->
+  <HUA_Bullet_ChargeStanchion.label>charge sniper shot</HUA_Bullet_ChargeStanchion.label>
+  <!-- EN: charge shot -->
+  <HUA_Bullet_HeavyChargeRifle.label>charge shot</HUA_Bullet_HeavyChargeRifle.label>
+  <!-- EN: stanchion sniper rifle -->
+  <HUA_Gun_ChargeStanchion.label>stanchion sniper rifle</HUA_Gun_ChargeStanchion.label>
+  <!-- EN: An experimental charged-shot sniper shooting mechanoid-ilke lancer shots. Combining pulse-charge technology with older gas-operated weapon design, this weapon is truly unique and yet, extremely powerful. -->
+  <HUA_Gun_ChargeStanchion.description>An experimental charged-shot sniper shooting mechanoid-ilke lancer shots. Combining pulse-charge technology with older gas-operated weapon design, this weapon is truly unique and yet, extremely powerful.</HUA_Gun_ChargeStanchion.description>
+  <!-- EN: stock -->
+  <HUA_Gun_ChargeStanchion.tools.stock.label>stock</HUA_Gun_ChargeStanchion.tools.stock.label>
+  <!-- EN: barrel -->
+  <HUA_Gun_ChargeStanchion.tools.barrel.label>barrel</HUA_Gun_ChargeStanchion.tools.barrel.label>
+  <!-- EN: stanchion sniper rifle -->
+  <HUA_Gun_ChargeStanchion.verbs.Verb_Shoot.label>stanchion sniper rifle</HUA_Gun_ChargeStanchion.verbs.Verb_Shoot.label>
+  <!-- EN: heavy charge rifle -->
+  <HUA_Gun_HeavyChargeRifle.label>heavy charge rifle</HUA_Gun_HeavyChargeRifle.label>
+  <!-- EN: A heavy charged-shot assault rifle shooting in short two bullet bursts. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done. -->
+  <HUA_Gun_HeavyChargeRifle.description>A heavy charged-shot assault rifle shooting in short two bullet bursts. Pulse-charge technology charges each shot with unstable energy as it leaves the barrel. Released on impact, the charged energy greatly increases the damage done.</HUA_Gun_HeavyChargeRifle.description>
+  <!-- EN: stock -->
+  <HUA_Gun_HeavyChargeRifle.tools.stock.label>stock</HUA_Gun_HeavyChargeRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <HUA_Gun_HeavyChargeRifle.tools.barrel.label>barrel</HUA_Gun_HeavyChargeRifle.tools.barrel.label>
+  <!-- EN: heavy charge rifle -->
+  <HUA_Gun_HeavyChargeRifle.verbs.Verb_Shoot.label>heavy charge rifle</HUA_Gun_HeavyChargeRifle.verbs.Verb_Shoot.label>
+</LanguageData>

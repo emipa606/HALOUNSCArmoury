@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: advanced rifle bullet -->
+  <HUA_Bullet_AdvancedAssaultRifle.label>advanced rifle bullet</HUA_Bullet_AdvancedAssaultRifle.label>
+  <!-- EN: advanced rifle bullet -->
+  <HUA_Bullet_AdvancedBattleRifle.label>advanced rifle bullet</HUA_Bullet_AdvancedBattleRifle.label>
+  <!-- EN: advanced rifle bullet -->
+  <HUA_Bullet_AdvancedDMR.label>advanced rifle bullet</HUA_Bullet_AdvancedDMR.label>
+  <!-- EN: advanced bullet -->
+  <HUA_Bullet_AdvancedMagnum.label>advanced bullet</HUA_Bullet_AdvancedMagnum.label>
+  <!-- EN: advanced shotgun blast -->
+  <HUA_Bullet_AdvancedShotgun.label>advanced shotgun blast</HUA_Bullet_AdvancedShotgun.label>
+  <!-- EN: sniper rifle bullet -->
+  <HUA_Bullet_AdvancedSniperRifle.label>sniper rifle bullet</HUA_Bullet_AdvancedSniperRifle.label>
+  <!-- EN: advanced assault rifle -->
+  <HUA_Gun_AdvancedAssaultRifle.label>advanced assault rifle</HUA_Gun_AdvancedAssaultRifle.label>
+  <!-- EN: An advanced gas-operated assault rifle for urban and boarding combat. What it lacks in accuracy, it makes up with damage and bullets fired. -->
+  <HUA_Gun_AdvancedAssaultRifle.description>An advanced gas-operated assault rifle for urban and boarding combat. What it lacks in accuracy, it makes up with damage and bullets fired.</HUA_Gun_AdvancedAssaultRifle.description>
+  <!-- EN: stock -->
+  <HUA_Gun_AdvancedAssaultRifle.tools.stock.label>stock</HUA_Gun_AdvancedAssaultRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <HUA_Gun_AdvancedAssaultRifle.tools.barrel.label>barrel</HUA_Gun_AdvancedAssaultRifle.tools.barrel.label>
+  <!-- EN: advanced assault rifle -->
+  <HUA_Gun_AdvancedAssaultRifle.verbs.Verb_Shoot.label>advanced assault rifle</HUA_Gun_AdvancedAssaultRifle.verbs.Verb_Shoot.label>
+  <!-- EN: advanced battle rifle -->
+  <HUA_Gun_AdvancedBattleRifle.label>advanced battle rifle</HUA_Gun_AdvancedBattleRifle.label>
+  <!-- EN: An advanced battle rifle shooting three bullet bursts. It has good range, damage and armour penetration. -->
+  <HUA_Gun_AdvancedBattleRifle.description>An advanced battle rifle shooting three bullet bursts. It has good range, damage and armour penetration.</HUA_Gun_AdvancedBattleRifle.description>
+  <!-- EN: stock -->
+  <HUA_Gun_AdvancedBattleRifle.tools.stock.label>stock</HUA_Gun_AdvancedBattleRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <HUA_Gun_AdvancedBattleRifle.tools.barrel.label>barrel</HUA_Gun_AdvancedBattleRifle.tools.barrel.label>
+  <!-- EN: grip -->
+  <HUA_Gun_AdvancedBattleRifle.tools.grip.label>grip</HUA_Gun_AdvancedBattleRifle.tools.grip.label>
+  <!-- EN: advanced battle rifle -->
+  <HUA_Gun_AdvancedBattleRifle.verbs.Verb_Shoot.label>advanced battle rifle</HUA_Gun_AdvancedBattleRifle.verbs.Verb_Shoot.label>
+  <!-- EN: advanced marksman rifle -->
+  <HUA_Gun_AdvancedDMR.label>advanced marksman rifle</HUA_Gun_AdvancedDMR.label>
+  <!-- EN: An advanced marksman rifle shooting with exceptionally long range, great accuracy and good power. It files both the role of a combat and sniper rifle. -->
+  <HUA_Gun_AdvancedDMR.description>An advanced marksman rifle shooting with exceptionally long range, great accuracy and good power. It files both the role of a combat and sniper rifle.</HUA_Gun_AdvancedDMR.description>
+  <!-- EN: stock -->
+  <HUA_Gun_AdvancedDMR.tools.stock.label>stock</HUA_Gun_AdvancedDMR.tools.stock.label>
+  <!-- EN: barrel -->
+  <HUA_Gun_AdvancedDMR.tools.barrel.label>barrel</HUA_Gun_AdvancedDMR.tools.barrel.label>
+  <!-- EN: grip -->
+  <HUA_Gun_AdvancedDMR.tools.grip.label>grip</HUA_Gun_AdvancedDMR.tools.grip.label>
+  <!-- EN: advanced marksman rifle -->
+  <HUA_Gun_AdvancedDMR.verbs.Verb_Shoot.label>advanced marksman rifle</HUA_Gun_AdvancedDMR.verbs.Verb_Shoot.label>
+  <!-- EN: advanced pistol -->
+  <HUA_Gun_AdvancedMagnum.label>advanced pistol</HUA_Gun_AdvancedMagnum.label>
+  <!-- EN: An advanced blowback-operated self-loading pistol. It lacks stopping power and range, but does a high amount of damage. -->
+  <HUA_Gun_AdvancedMagnum.description>An advanced blowback-operated self-loading pistol. It lacks stopping power and range, but does a high amount of damage.</HUA_Gun_AdvancedMagnum.description>
+  <!-- EN: grip -->
+  <HUA_Gun_AdvancedMagnum.tools.grip.label>grip</HUA_Gun_AdvancedMagnum.tools.grip.label>
+  <!-- EN: barrel -->
+  <HUA_Gun_AdvancedMagnum.tools.barrel.label>barrel</HUA_Gun_AdvancedMagnum.tools.barrel.label>
+  <!-- EN: advanced pistol -->
+  <HUA_Gun_AdvancedMagnum.verbs.Verb_Shoot.label>advanced pistol</HUA_Gun_AdvancedMagnum.verbs.Verb_Shoot.label>
+  <!-- EN: advanced shotgun -->
+  <HUA_Gun_AdvancedShotgun.label>advanced shotgun</HUA_Gun_AdvancedShotgun.label>
+  <!-- EN: An automatic advanced shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to its damage output. -->
+  <HUA_Gun_AdvancedShotgun.description>An automatic advanced shotgun. It is even shorter-ranged than a typical shotgun, but is extraordinarily dangerous due to its damage output.</HUA_Gun_AdvancedShotgun.description>
+  <!-- EN: stock -->
+  <HUA_Gun_AdvancedShotgun.tools.stock.label>stock</HUA_Gun_AdvancedShotgun.tools.stock.label>
+  <!-- EN: barrel -->
+  <HUA_Gun_AdvancedShotgun.tools.barrel.label>barrel</HUA_Gun_AdvancedShotgun.tools.barrel.label>
+  <!-- EN: advanced shotgun -->
+  <HUA_Gun_AdvancedShotgun.verbs.Verb_Shoot.label>advanced shotgun</HUA_Gun_AdvancedShotgun.verbs.Verb_Shoot.label>
+  <!-- EN: advanced sniper rifle -->
+  <HUA_Gun_AdvancedSniperRifle.label>advanced sniper rifle</HUA_Gun_AdvancedSniperRifle.label>
+  <!-- EN: An advanced, gas-operated design of precision sniper rifle. It has an exceptionally long range, great accuracy and extreme power. -->
+  <HUA_Gun_AdvancedSniperRifle.description>An advanced, gas-operated design of precision sniper rifle. It has an exceptionally long range, great accuracy and extreme power.</HUA_Gun_AdvancedSniperRifle.description>
+  <!-- EN: stock -->
+  <HUA_Gun_AdvancedSniperRifle.tools.stock.label>stock</HUA_Gun_AdvancedSniperRifle.tools.stock.label>
+  <!-- EN: barrel -->
+  <HUA_Gun_AdvancedSniperRifle.tools.barrel.label>barrel</HUA_Gun_AdvancedSniperRifle.tools.barrel.label>
+  <!-- EN: grip -->
+  <HUA_Gun_AdvancedSniperRifle.tools.grip.label>grip</HUA_Gun_AdvancedSniperRifle.tools.grip.label>
+  <!-- EN: advanced sniper rifle -->
+  <HUA_Gun_AdvancedSniperRifle.verbs.Verb_Shoot.label>advanced sniper rifle</HUA_Gun_AdvancedSniperRifle.verbs.Verb_Shoot.label>
+</LanguageData>
