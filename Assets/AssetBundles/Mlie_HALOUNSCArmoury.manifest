@@ -1,33 +1,33 @@
 ManifestFileVersion: 0
-CRC: 2239219006
+CRC: 361823355
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 45d8ece1976e25fc915b82284018c2ec
+    Hash: 6fd5a939ef0d44742aa184c3678e9b75
   TypeTreeHash:
     serializedVersion: 2
     Hash: 2612ac43db082a73502ee80f2eceb73f
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 45d8ece1976e25fc915b82284018c2ec
+    Hash: 6fd5a939ef0d44742aa184c3678e9b75
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloDMR.png
-- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Pawn/Humanlike/Apparel/HaloCombatHelmet/HaloCombatHelmet.png
-- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloBattleRifle.png
-- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloMagnum.png
-- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloShotgun.png
+- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Pawn/Humanlike/Apparel/HaloCombatHelmet/HaloCombatHelmet_east.png
 - Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloSniper.png
+- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloBattleRifle.png
 - Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloSpartanLaser.png
 - Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Pawn/Humanlike/Apparel/HaloCombatHelmet/HaloCombatHelmet_north.png
-- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloSaw.png
+- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloMagnum.png
 - Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloGaussRifle.png
-- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Pawn/Humanlike/Apparel/HaloCombatHelmet/HaloCombatHelmet_south.png
+- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloDMR.png
+- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloSaw.png
 - Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloStanchion.png
-- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Pawn/Humanlike/Apparel/HaloCombatHelmet/HaloCombatHelmet_east.png
+- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloShotgun.png
 - Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Item/Equipment/WeaponRanged/HaloAssaultRifle.png
+- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Pawn/Humanlike/Apparel/HaloCombatHelmet/HaloCombatHelmet.png
+- Assets/Data/Mlie.HALOUNSCArmoury/Textures/Things/Pawn/Humanlike/Apparel/HaloCombatHelmet/HaloCombatHelmet_south.png
 Dependencies: []
