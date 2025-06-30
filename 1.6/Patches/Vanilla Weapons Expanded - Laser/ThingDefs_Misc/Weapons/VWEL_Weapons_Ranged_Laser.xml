@@ -10,7 +10,7 @@
         <!-- ====================== Halo Spartan Laser  ===================== -->
         <ThingDef ParentName="BaseLaserGun">
           <defName>HUA_Gun_Anti-TankLaserRifle</defName>
-          <thingClass>VanillaWeaponsExpandedLaser.LaserGun</thingClass>
+          <thingClass>VEF.Weapons.LaserGun</thingClass>
           <label>heavy laser rifle</label>
           <description>A heavy shoulder-mount ultratech sniper rifle capable of emitting a concentrated beam of light with enough power to melt through even the heaviest armour on small ships. \n\nBy using advanced battery cells, this weapon is capable of warming up, boosting the firing speed with each consecutive shot when standing still.\n\nThis weapon can overheat when fully warmed up, resulting in a small battery explosion around the user.</description>
           <graphicData>
@@ -73,7 +73,7 @@
             </li>
           </verbs>
           <comps>
-            <li Class="VanillaWeaponsExpandedLaser.CompProperties_LaserCapacitor">
+            <li Class="VEF.Weapons.CompProperties_LaserCapacitor">
               <UiIconPath>UI/EnableWarmup/EnableWarmup</UiIconPath>
               <WarmUpReductionPerShot>3.0</WarmUpReductionPerShot>
               <Overheats>true</Overheats>
@@ -105,7 +105,7 @@
             </li>
           </tools>
         </ThingDef>
-        <ThingDef ParentName="VWEL_Bullet_LaserGeneric" Class="VanillaWeaponsExpandedLaser.LaserBeamDef">
+        <ThingDef ParentName="VWEL_Bullet_LaserGeneric" Class="VEF.Weapons.LaserBeamDef">
           <defName>HUA_Bullet_Anti-TankLaserRifle</defName>
           <label>precise laser shot</label>
           <description>A focused, long range laser beam.</description>
